@@ -96,7 +96,9 @@ The pieces of information are separated by tabs or spaces.
 
 > #### ∼/B-MUL-100> ./my_radar; echo $?
 > ./my_radar: bad arguments: 0 given but 1 is required
+>
 > retry with -h
+>
 > 84
 
 > #### ∼/B-MUL-100> ./my_radar -h
@@ -104,6 +106,7 @@ The pieces of information are separated by tabs or spaces.
 >
 > ##### USAGE
 >	./my_radar [OPTIONS] path_to_script
+>
 >	path_to_script The path to the script file.
 >
 > ##### OPTIONS
@@ -111,10 +114,15 @@ The pieces of information are separated by tabs or spaces.
 >
 > ##### USER INTERACTIONS
 > 'LCLICK': left click once set the position of a new tower,  left click once again set the radius to the new_tower.
-> 'RCLICK' right click on a tower to destroy it.   
+>
+> 'RCLICK' right click on a tower to destroy it.
+>
 > 'SPACE'  key pause the simulation.
+>
 > 'L’ 	 key enable/disable hitboxes and areas.
+>
 > ‘S’      key enable/disable sprites.
+>
 > 'Q'      key enable/disable quadtree.
 
 ## Installation
