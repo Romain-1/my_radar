@@ -83,9 +83,13 @@ The pieces of information are separated by tabs or spaces.
 
 > #### ~/my_radar> cat scripts/example.rdr
 > A 815 321 1484 166 5 0
+>
 > A 1589 836 811 936 2 0
+>
 > A 202 894 103 34 3 0
+>
 > T 93 47 19
+>
 > T 49 56 25
 
 ## USAGE
@@ -95,17 +99,17 @@ The pieces of information are separated by tabs or spaces.
 > retry with -h
 > 84
 
-> ### ∼/B-MUL-100> ./my_radar -h
+> #### ∼/B-MUL-100> ./my_radar -h
 > Air traffic simulation panel
 >
 > ##### USAGE
 >	./my_radar [OPTIONS] path_to_script
 >	path_to_script The path to the script file.
 >
->##### OPTIONS
+> ##### OPTIONS
 >	-h	print the usage and quit.
 >
->##### USER INTERACTIONS
+> ##### USER INTERACTIONS
 > 'LCLICK': left click once set the position of a new tower,  left click once again set the radius to the new_tower.
 > 'RCLICK' right click on a tower to destroy it.   
 > 'SPACE'  key pause the simulation.
