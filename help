@@ -1,0 +1,17 @@
+Air traffic simulation panel
+
+USAGE
+	./my_radar [OPTIONS] path_to_script
+	path_to_script The path to the script file.
+
+OPTIONS
+	-h	print the usage and quit.
+
+USER INTERACTIONS
+        'LCLICK' left click once set the position of a new tower,
+                 left click once again set the radius to the new_tower.
+        'RCLICK' right click on a tower to destroy it.
+        'SPACE'  key pause the simulation.
+	'L’ 	 key enable/disable hitboxes and areas.
+	‘S’      key enable/disable sprites.
+        'Q'      key enable/disable quadtree.
