@@ -54,7 +54,7 @@ the simulation containing characters and integers.
 - [ ] Control towers’ areas **could** cross any side of the screen and affect the opposite one.
 - [ ] The program **could** manage floating numbers coming from the script.
 
-### PERSONNALS BONUS
+### PERSONAL BONUSES
 - Use of a quadtree algorithm to check collisions.
 - You can display quadtree by pressing the key 'Q'.
 - You can add and chose their size by pressing twice the left button of your mouse.
@@ -138,3 +138,5 @@ And finally:
     ./my_radar <script>
   
 *working only on linux*
+
+**Mark**: 59/64
