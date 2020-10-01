@@ -23,7 +23,7 @@ on their way.
 ## Requirements
 
 ### MUST
-- [] The program **must** take exactly one parameter.
+- [ ] The program **must** take exactly one parameter.
 - [x] The program **must** accept any filepath as argument. It corresponds to the file containing the script for
 the simulation containing characters and integers.
 - [x] The program **must** displayed an error message if the script is not found or incorrect.
@@ -46,13 +46,13 @@ the simulation containing characters and integers.
 - [x] Possible user interactions **should** be explicitly displayed in the usage.
 
 ### COULD
-- [] Aircrafts’ hitbox and size **could** be in a 3D space.
+- [ ] Aircrafts’ hitbox and size **could** be in a 3D space.
 - [x] Aircrafts **could** cross any side of a screen and appear on the opposite one.
 - [x] Aircrafts’ hitbox and sprite **could** rotate depending on the aircrafts’ direction.
-- [] Aircrafts’ hitbox **could** follow the sprite boundary.
-- [] Aircrafts’ hitbox **could** have different sizes.
-- [] Control towers’ areas **could** cross any side of the screen and affect the opposite one.
-- [] The program **could** manage floating numbers coming from the script.
+- [ ] Aircrafts’ hitbox **could** follow the sprite boundary.
+- [ ] Aircrafts’ hitbox **could** have different sizes.
+- [ ] Control towers’ areas **could** cross any side of the screen and affect the opposite one.
+- [ ] The program **could** manage floating numbers coming from the script.
 
 ### PERSONNALS BONUS
 - Use of a quadtree algorithm to check collisions.
