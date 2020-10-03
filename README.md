@@ -60,7 +60,7 @@ the simulation containing characters and integers.
 - You can add and chose their size by pressing twice the left button of your mouse.
 - You can delete towers by pressing right button of your mouse.
 
-![example_radar](https://lh3.googleusercontent.com/ydshxUMLCg7SswY7oauI6bV2Eby2zNuCacBam4j3nB-pKCoOLlZEhHy7vZ62--g5bWjaINN0RtqwdaeCU9ARJFB3c0PFx0aoL-1V2Iani-jNg53eJQEBURwmsYItOAe9jyUVTagrDVHfjIs_tPJspBgeR3AeCemCJofAf4JdcAQbrM1Gnq0Rdk3vQQq_xtKIhDbwyR59YxNowJ0YXw9g4XH_cLHDtN4hw4r0j4bJ9if4ryZ7QMLYOLWcX5zSKyqu0HSXLlSmP3-KR4IVYy7_nsOBsbWtSY5HLSpBKXUWCaUpuo3y4J5MLWuzlkuZxjh1WODVNBZuzYAkyby-qiF8CUdc5orJH0dcwGm59hUMBFpdD0YBqhgXma4yeO9D9PqjhY2sR53BHvn1z1s128nhroXbXeXCzLY7cmVxgRDncZC_s2ZhEgw5TDKmSGx1bvCssAG75OFI5W44UqG-F3jmhb3bAkr1Ni2UGBZWIRT1peOkpEZwGylXtxd-o7wuKILDsDwR56m8yCIcgzcadcQUpZzRpeCh3asn5r4V8W8B3uqY4CDCZLyVCuH28YxU-ooIMsG-XwbtSwPgoNsozu1Q3KICWYnmk5pwCM_ApBKiOQqGAhA7SFdyxxWrKvPXaKBOt84dySKe37RdER6qcYP-v3NSA43z-4XRUTjdCcHr36-sNGKgiXtuBNK5RFOgXA=w1855-h1008-no?authuser=0)
+![example_radar](.github/resources/radar.png)
 
 ## SCRIPT
 The script file contains all the information about the simulation and the entities.
