@@ -60,7 +60,7 @@ the simulation containing characters and integers.
 - You can add and chose their size by pressing twice the left button of your mouse.
 - You can delete towers by pressing right button of your mouse.
 
-![example_radar](.github/resources/radar.png)
+![example_radar](/resources/radar.png)
 
 ## SCRIPT
 The script file contains all the information about the simulation and the entities.
